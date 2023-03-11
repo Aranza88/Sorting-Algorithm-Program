@@ -1,0 +1,102 @@
+Juan, Perez Gomez, 403030
+Luis Alberto, Gomez Lopez, 023456
+Jose, Mendez Rodriguez, 967852
+Azul, Alfaro Fernandez, 362430
+Aranza Abril, Nuñez Luna, 123456
+Itzel, Arreola Robles, 987652
+Ingrid, Espinoza Mena, 275493
+David, Romero Santos, 295893
+Tomas, Castillo Luna, 157907
+Andres, Ocampo Garcia, 590724
+Aranza Itzel, Serrano Campos, 639983
+Anabel, Carrillo Rodriguez, 205492
+Sonia, Castillo Gomez, 764791
+Diana Laura, Arce Espinoza, 242326
+Arturo, Aguilar Fernandez, 897663
+Laura Alicia, Xolalpa Romero, 998029
+Javier, Vazquez Luna, 968698
+Guadalupe, Rosas Peña, 744036
+Ariadne, Rosas Rodriguez, 802782
+Oscar Fernando, Restrepo Gomez, 886986
+Diego, Arce Monsalve, 861456
+Alejandro Ulises, Mateos Alarcon, 756968
+Luz Mariana, Becerril Hernandez, 564543
+Monica, Arciniega Gutierrez, 340289
+Soledad, Lima Vazquez, 795330
+Ximena, Garcia Flores, 385830
+Alejandra, Calizaya Rosas, 917817
+Helena, Hernandez Lua, 241519
+Selene, Blanco Espino, 941731
+Julio, Restrepo Galvez, 121098
+Francisco, Zambrano Cantos, 397380
+Daniela, Rosas Rodriguez, 114654
+Ernesto, Gonzalez Guerrero, 532738
+Miguel, Lucas Maldonado, 256311
+Nancy, Marino Hernandez, 355213
+Dafne Itzel, Nieves Guerra, 706771
+Beatriz, Franco Gallego, 67466
+Abel Eduardo, Cortes Huerta, 295210
+Alba, Loza Asturias, 661418
+Samuel, Rojas Salazar, 659001
+Sofia Socorro, Santos Santiago, 319888
+Tania, Xolalpa Romero, 951344
+Vanesa, Zabala Ybarra, 432096
+Hector, Vega Garcia, 776193
+Pablo, Torres Hernandez, 328007
+Arely, De la Cruz Munguia, 70715
+Hayde, Dominguez Robles, 273835
+Paloma, Arreola Campos, 240718
+Azul, Olguin Ramirez, 71031
+Alejandra, Sol Ortega, 105851
+Pancha, Molina Torres, 243401
+David, Rueda Garcia, 263460
+German, Ramirez Diaz, 630660
+Elizabeth, Benitez Reyes, 194397
+Oscar, Robles Vizcaya, 5598
+Sebastian, Sanchez Sentiez, 866562
+Valeria, Camacho Palomares, 647023
+Diego, Medina Correra, 674976
+Jorge, Arroyo Rodriguez, 275056
+Demaris, Torres de la Cruz, 77366
+Mario, Veliz Campos, 732904
+Yamilet, Estebanez Munioz, 884935
+Mariana, Hernandez Sanchez, 652350
+Hugo, Arenas Castro, 962848
+Vanesa, Gomez Nicolas, 233737
+Uriel, Arce Domingo, 524181
+Gustavo, Galicia Morales, 952727
+Jaime Francisco, Aguayo Gonzalez, 185772
+Andrea, Chavez Heredia, 154553
+Ruth Silvana, Cortes Lagunes, 383989
+Ariana, De Jesus Ramos, 739626
+Luis Felipe, Delgado Barron, 937732
+Hansel Andres, Espejo Ramos, 102191
+Aniyensy Sarai, Flores Aguilar, 871172
+Karla Paulette, Flores Silva, 457427
+Maria, Maximov Cortes, 780969
+Danna Veronica, Hernandez Gonzalez, 114899
+Aelín, Moreno Huitrón, 332211
+Alejandra Citlali, Sanchez Lugardo, 379325
+Consuelo, Blazquez Alarcon, 80021
+Maria Luisa, Pardo Collado, 627874
+Julia, Ballesteros Requena, 852276
+Angela, Calero Valero, 987462
+Raquel, Cuenca Garrido, 518933
+Angeles, Castillo Molina, 766577
+Laura, Romero Rubio, 396618
+Rosa Maria, Morcillo Picazo, 470942
+Elena, Cano Garrido, 281701
+Dolores, Diaz Ruiz, 343645
+Josefa, Lopez Martinez, 106483
+Vianney, Perez Lopez, 562950
+Karla, Rodriguez Navarro, 183060
+Tulio, Moreno Gomez, 245294
+Vania, Sanchez Sanchez, 554824
+Isabel, Hernandez Jimenez, 810426
+Dilan, Ramos Calizaya, 802986
+Arturo, Caldas Bahamonde, 223480
+Carlos Enrique, Santana Castillo, 737001
+Carmen, Serrano Perez, 612258
+Daniel, Velazquez Reyes, 845075
+Francisca, Navarro Navarro, 43760
+Karen Melissa, Zambrano Cantos, 927641
